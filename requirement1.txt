@@ -1,0 +1,26 @@
+# Core Python
+numpy
+
+
+# Computer Vision
+opencv-python
+albumentations
+matplotlib
+
+# Progress bar
+tqdm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+timm
+
+# Data handling & ML
+scikit-learn
+
+# Grad-CAM visualization
+grad-cam
+
+# Utilities
+glob2

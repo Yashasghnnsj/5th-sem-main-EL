@@ -1,0 +1,16 @@
+flask
+flask-cors
+python-dotenv
+google-genai
+requests
+python-dateutil
+cachetools
+lxml
+
+# ML Dependencies
+torch
+torchvision
+timm
+albumentations
+opencv-python
+scikit-learn
